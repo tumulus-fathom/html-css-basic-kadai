@@ -1,0 +1,23 @@
+body {
+  font-family:"Arial","Meiryo",sans-serif;
+  text-align:center;
+}
+.skyblue {
+  color:skyblue;
+}
+.pink {
+  color:rgb(255,192,203);
+}
+h1 {
+  font-family:"Josefin Sans",sans-serif;
+  font-size:2rem;/*ルート要素の2倍のフォントサイズ*/
+  letter-spacing:1.2em;/*文字間隔をフォントサイズに対して1.2倍の文字間*/
+  text-shadow:1px 1px 2px gray;
+  border-bottom:solid 3px rgb(115,115,114);
+}
+#basic p{
+  font-weight:bold;
+}
+html {
+  font-size:20px;
+}
